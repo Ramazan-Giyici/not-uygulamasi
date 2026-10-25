@@ -1,0 +1,6 @@
+Hafta 4 - Ogrendigim 5 Linux Komutu
+1. pwd   : Bulundugum dizinin tam yolunu gosterir.
+2. ls -la: Dizindeki gizli dosyalar dahil tum dosyalari ayrintili listeler.
+3. cd    : Dizin degistirir (cd .. bir ust dizine cikar).
+4. mkdir : Yeni klasor olusturur (mkdir -p ic ice klasor olusturur).
+5. chmod : Dosya izinlerini degistirir (chmod 755 script.sh).
