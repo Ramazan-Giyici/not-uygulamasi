@@ -4,3 +4,10 @@ Hafta 4 - Ogrendigim 5 Linux Komutu
 3. cd    : Dizin degistirir (cd .. bir ust dizine cikar).
 4. mkdir : Yeni klasor olusturur (mkdir -p ic ice klasor olusturur).
 5. chmod : Dosya izinlerini degistirir (chmod 755 script.sh).
+
+Hafta 2 - Ogrendigim 5 Git Komutu
+1. git init   : Bulundugum klasoru yeni bir Git reposuna donusturur.
+2. git status : Hangi dosyalarin degistigini, staged/untracked oldugunu gosterir.
+3. git add    : Degisiklikleri staging area'ya (commit'e hazir alana) alir.
+4. git commit : Staging'deki degisiklikleri mesajla birlikte kalici olarak kaydeder.
+5. git log    : Commit gecmisini listeler (--oneline ile kisa bicimde).
